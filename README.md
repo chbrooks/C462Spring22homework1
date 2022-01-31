@@ -1,6 +1,6 @@
 ### Assignment 1: Introduction to AI
 
-##### Due: Tuesday 2/16 at the start of class. (2:40pm)
+##### Due: Tuesday 2/15 at the start of class. (12:45pm)
 
 ##### 100 points.
 
